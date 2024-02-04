@@ -2,6 +2,8 @@ Code for YouTube Tutorial
 
 [Tutorial Link](https://www.youtube.com/watch?v=a2shHB4MRZ4)
 
+[LIVE DEMO](https://eminembot-tutorial-jutsupoint.streamlit.app/)
+
 ## Installation
 
 - Clone the repository:
